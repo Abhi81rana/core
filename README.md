@@ -1,3 +1,4 @@
 # core
-This is my first git
-by- Abbhi
+This is my first git.
+<br>
+by- Abhi
